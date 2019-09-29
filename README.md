@@ -1,6 +1,6 @@
 # FreeCodeCamp !!
 ## Resposive web design section
-### Fourth challenge - Landing page
+### Fourth challenge - Technical documentation page
 
 ### Challenge description
 
